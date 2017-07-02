@@ -3,3 +3,6 @@ main: GDF1v\Main
 version: 1.0v
 api: 3.0.0
 author: plugmcpe
+commands:
+  vbv:
+      description: make player setgamemode 1
